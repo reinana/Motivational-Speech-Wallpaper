@@ -1,0 +1,12 @@
+.quate {
+    font-size: 1.2rem;
+    font-weight: bold;
+    line-height: 1.5;
+}
+
+@media (min-width: 992px) { 
+    .quate {
+        font-size: 1.5rem;
+        line-height: 2.0;
+    }
+}
